@@ -1,0 +1,13 @@
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\bin\Debug\0228erdeigergelydolgozat.exe.config
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\bin\Debug\0228erdeigergelydolgozat.exe
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\bin\Debug\0228erdeigergelydolgozat.pdb
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\0228erdeigergelydolgozat.csproj.AssemblyReference.cache
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\0228erdeigergelydolgozat.csproj.SuggestedBindingRedirects.cache
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\_0228erdeigergelydolgozat.Properties.Resources.resources
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\0228erdeigergelydolgozat.csproj.GenerateResource.cache
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\0228erdeigergelydolgozat.csproj.CoreCompileInputs.cache
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\0228erdeigergelydolgozat.exe
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\0228erdeigergelydolgozat.pdb
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\_0228erdeigergelydolgozat.FrmKereso.resources
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\_0228erdeigergelydolgozat.FrmMain.resources
+C:\Users\gergo\source\repos\0228erdeigergelydolgozat\0228erdeigergelydolgozat\obj\Debug\_0228erdeigergelydolgozat.FrmVizsgazo.resources
